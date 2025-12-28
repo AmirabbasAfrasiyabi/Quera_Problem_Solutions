@@ -4,3 +4,9 @@ Medium:
 2- postcard -> https://quera.org/problemset/21210?tab=description
 3- jalali calender -> https://quera.org/problemset/129725
 
+
+
+---
+(python link)
+easy:
+1-
