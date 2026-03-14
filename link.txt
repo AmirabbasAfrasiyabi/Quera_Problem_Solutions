@@ -11,3 +11,4 @@ Medium:
 easy:
 1- Bondbreaker ->  https://quera.org/problemset/129728
 2- queranometric ->  https://quera.org/problemset/306545
+3- shaparak ->  https://quera.org/problemset/251441
