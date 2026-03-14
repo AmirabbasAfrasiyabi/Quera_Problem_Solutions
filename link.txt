@@ -1,12 +1,13 @@
 (Django-link)
 Medium:
-1- Blog -> https://quera.org/problemset/14742?tab=description
-2- postcard -> https://quera.org/problemset/21210?tab=description
-3- jalali calender -> https://quera.org/problemset/129725
+1- Blog ->  https://quera.org/problemset/14742?tab=description
+2- postcard ->  https://quera.org/problemset/21210?tab=description
+3- jalali calender ->  https://quera.org/problemset/129725
 
 
 
 ---
 (python link)
 easy:
-1- Bondbreaker -> https://quera.org/problemset/129728
+1- Bondbreaker ->  https://quera.org/problemset/129728
+2- queranometric ->  https://quera.org/problemset/306545
